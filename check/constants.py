@@ -25,4 +25,4 @@ BROWN = (89, 60, 31)
 BEIGE = (244, 226, 198)
 
 #image for kinged pieces
-CROWN = pygame.transform.scale(pygame.image.load('assets/crown1.png'), (90,60))
+CROWN = pygame.transform.scale(pygame.image.load('stuff/crown1.png'), (90,60))
